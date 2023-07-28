@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My 1st Post",
+      "dateTime": "July 01,2021 11:17:36 AM",
+      "body": "This is for AR Rahman and his magical music"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "dateTime": "July 01,2021 11:17:36 AM",
+      "body": "This is for Harris Jayaraj and his innovatic music"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "dateTime": "July 01,2021 11:17:36 AM",
+      "body": "This is for Yuvan Shankar Raja and his insane music"
+    },
+    {
+      "id": 4,
+      "title": "My 4th Post",
+      "dateTime": "July 01,2021 11:17:36 AM",
+      "body": "This is for GV Prakash his pleasent music"
+    },
+    {
+      "id": 5,
+      "title": "My 5th Post",
+      "datetime": "July 07, 2023 1:54:37 PM",
+      "body": "This is for Ilayaraja and his evergreen music"
+    }
+  ]
+}
